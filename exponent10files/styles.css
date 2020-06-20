@@ -1,0 +1,26 @@
+fieldset {
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 1px groove (internal value);
+}
+
+logo {
+  max-width: 5%;
+  height: auto;
+}
+
+.navbar-nav > li {
+  padding-top: 47px;
+  padding-left: 7px;
+  padding-right: 7px;
+  font-size: 20;
+}
+
+.fa {
+  size: 50px;
+}
